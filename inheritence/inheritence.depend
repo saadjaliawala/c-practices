@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1482950485 source:c:\users\hp\desktop\c++ projects\inheritence\daughter.cpp
+	<iostream>
+	"mother.h"
+	"daughter.h"
+
+1482950617 c:\users\hp\desktop\c++ projects\inheritence\mother.h
+
+1482950592 c:\users\hp\desktop\c++ projects\inheritence\daughter.h
+

@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1482436465 source:c:\users\hp\desktop\c++ projects\classes in seperate file\main.cpp
+	<iostream>
+	"bruce.h"
+
+1482436512 source:c:\users\hp\desktop\c++ projects\classes in seperate file\bruce.cpp
+	"bruce.h"
+	<iostream>
+
+1482436120 c:\users\hp\desktop\c++ projects\classes in seperate file\bruce.h
+
